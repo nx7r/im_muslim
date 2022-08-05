@@ -1,4 +1,4 @@
-#CC BY-NC-ND
+# CC BY-NC-ND
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International
 
